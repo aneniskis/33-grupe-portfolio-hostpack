@@ -25,7 +25,7 @@ Design: https://www.themelooks.biz/demo/hostpack/html/preview/index.html
 
 ## Authors
 
-Aleksas Neniškis: [Github](https://github.com/aneniskis)
+Aleksas Neniškis: [Github](https://github.com/aneniskis),[LinkedIn](https://www.linkedin.com/in/aleksas-neni%C5%A1kis-1a4413239/)
 
 Anton Sokolkin: [Github](https://github.com/ASreiros), [LinkedIn](https://www.linkedin.com/in/anton-sokolkin-109746111)
 
